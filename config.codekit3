@@ -4703,6 +4703,20 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/tawarewa-www-interest-rates.sublime-project": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/tawarewa-www-interest-rates.sublime-project",
+		"oF": 0
+		},
+	"\/tawarewa-www-interest-rates.sublime-workspace": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/tawarewa-www-interest-rates.sublime-workspace",
+		"oF": 0
 		}
 	},
 "hooks": [
