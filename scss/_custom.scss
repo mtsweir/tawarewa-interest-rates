@@ -1,0 +1,284 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+// Typography
+$font-family-sans-serif:  'Roboto', "Helvetica Neue", Arial, sans-serif;
+$font-family-secondary:   'Raleway', "Helvetica Neue", Arial, sans-serif;
+
+// Components
+$brand-primary:           #532C8E;
+$brand-secondary:         #0BA2FC;
+
+$btn-primary-bg:          #0BA2FC;
+$btn-primary-border:      $btn-primary-bg;
+
+
+$btn-secondary-color:     $white;
+$btn-secondary-bg:        #35B8C7;
+$btn-secondary-border:    $btn-secondary-bg;
+
+$table-inverse-bg:        $brand-primary;
+
+$border-radius:           8px;
+
+
+/*
+    ----------------------------------------------------------------------
+    #Typography
+    ----------------------------------------------------------------------
+    Google fonts used for text rendering.
+    1. Requires !important to override defaults.
+*/
+
+body {
+	color: $gray !important; /* [1] */
+	font-family: $font-family-sans-serif !important; /* [1] */
+	line-height: 1.6 !important; /* [1] */
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+	font-family: $font-family-secondary !important; /* [1] */
+}
+
+
+/*
+    ======================================================================
+    #Header
+    ======================================================================
+	Global header of website.
+	1. Set min height for mobile devices.
+	2. Background colour using primary purple.
+
+*/
+
+.header {
+	min-height: 350px; /* [1] */
+	
+	.navbar {
+		padding: 0;
+	}
+	&.cover-image:before {
+		background-color: rgba($brand-primary, 0.8); /* [2] */
+	}
+}
+
+.navbar-brand {
+	color: $white;
+	&:hover {
+		color: $white;
+	}
+}
+
+/*
+    ----------------------------------------------------------------------
+    #Cover Image
+    ----------------------------------------------------------------------
+    Background image styles and colour overlay.
+    2. Base colour uses a Bootstrap grey from grayscale palette.
+*/
+
+.cover-image {
+	position: relative;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+		&::before {
+		position: absolute;
+		top: 0; right: 0; bottom: 0; left: 0;
+		width: 100%;
+		content: "";
+		background-color: rgba($black, 0.4); /* [2] */
+	}
+
+}
+
+
+/*
+    ======================================================================
+    #Tables: rates table
+    ======================================================================
+	Rates table uses custom hover effect to highlight rows and columns.
+    See: https://css-tricks.com/simple-css-row-column-highlighting/
+    1. Prevent th text from line breaks
+    2. Hover colour, use solid colour instead of opacity.
+
+*/
+
+.table-bank-rates {
+	overflow: hidden;
+
+	th {
+		white-space: nowrap; /* [1] */
+	}
+	
+	td {
+	  position: relative;
+	}
+
+	tr:hover {
+  		background-color: lighten($brand-secondary, 44); /* [2] */
+	}
+
+	td:hover::after{
+	  content: "";
+	  position: absolute;
+	  background-color: lighten($brand-secondary, 44); /* [2] */
+	  left: 0;
+	  top: -5000px;
+	  height: 10000px;
+	  width: 100%;
+	  z-index: -1;
+	}
+
+}
+
+
+/*
+    ======================================================================
+    #Cards
+    ======================================================================
+	Bootstrap cards.
+	1. Set relative position so content sits over background images.
+
+*/
+
+.card {
+	border-radius: $border-radius !important;
+
+	.card-block {
+		position: relative; /* [1] */
+		padding: 30px;
+
+		a {
+			color: $white;
+			&:hover {
+				color: $white;
+				text-decoration: none;
+			}
+		}
+	}
+
+	.card-title {
+		margin-bottom: 1.25rem;
+	}
+
+}
+
+.card-list {
+	margin-bottom: 2rem;
+	li {
+		margin-bottom: 0.75rem;
+	}
+}
+
+/*
+    ----------------------------------------------------------------------
+    #Cards: Calculator
+    ----------------------------------------------------------------------
+    Header calculator.
+*/
+
+.card-calculator {
+	.card-img {
+		margin-bottom: 1rem;
+		img {
+			max-width: 120px;
+		}
+	}
+}
+
+
+/*
+    ======================================================================
+    #Buttons
+    ======================================================================
+	Bootstrap buttons.
+
+*/
+
+.btn {
+	font-family: $font-family-secondary !important;
+}
+
+
+/*
+    ======================================================================
+    #Forms
+    ======================================================================
+	Bootstrap forms.
+
+*/
+
+label {
+	font-family: $font-family-secondary !important;
+	font-size: 1.25rem;
+}
+
+
+/*
+    ======================================================================
+    #Footer
+    ======================================================================
+	Global footer of website.
+
+*/
+
+.footer {
+	background-color: $brand-primary;
+}
+
+.footer-nav {
+	& > :first-of-type {
+		padding-right: 10px;
+		border-right: 1px solid rgba($white, 0.5);
+	}
+	.list-inline-item:not(:last-child) {
+    	margin-right: 10px;
+	}
+}
+
+.copyright {
+	color: rgba($white, 0.5);
+}
+
+
+/*
+    ======================================================================
+    #Break Points
+    ======================================================================
+		Responsive breakpoints.
+
+*/
+
+/*@media (max-width: 540px) {
+
+	.header.cover-image {
+		background-image: url('../img/header-sm.jpg') !important;
+	}
+
+}*/
+
+@media (min-width: 720px) {
+
+	.header.cover-image {
+		background-image: url('../img/header-md.jpg') !important;
+	}
+
+}
+
+@media (min-width: 960px) {
+
+	.header.cover-image {
+		background-image: url('../img/header-lg.jpg') !important;
+	}
+
+	.header-title {
+		font-size: 3.5rem;
+	}
+
+}
