@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,31 +7,31 @@
 		"uuidString": "78257D25-808D-4D04-9747-424E35034DD1"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28795",
 "files": {
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/.gitignore",
+		"oAP": "/dist/.gitignore",
 		"oF": 0
 		},
-	"\/_config.yml": {
+	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/dist\/_config.yml",
+		"oAP": "/dist/_config.yml",
 		"oF": 0
 		},
-	"\/bower.json": {
+	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/bower-min.json",
+		"oAP": "/dist/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/CHANGELOG.md": {
+	"/CHANGELOG.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -40,7 +40,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/CHANGELOG.html",
+		"oAP": "/dist/CHANGELOG.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -49,22 +49,22 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/CNAME": {
+	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/CNAME",
+		"oAP": "/dist/CNAME",
 		"oF": 0
 		},
-	"\/composer.json": {
+	"/composer.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/composer-min.json",
+		"oAP": "/dist/composer-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/CONTRIBUTING.md": {
+	"/CONTRIBUTING.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -73,7 +73,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/CONTRIBUTING.html",
+		"oAP": "/dist/CONTRIBUTING.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -82,76 +82,76 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/dist": {
+	"/dist": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/dist\/dist",
+		"oAP": "/dist/dist",
 		"oF": 0
 		},
-	"\/docs\/.htmlhintrc": {
+	"/docs/.htmlhintrc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/.htmlhintrc",
+		"oAP": "/dist/docs/.htmlhintrc",
 		"oF": 0
 		},
-	"\/docs\/_data\/breakpoints.yml": {
+	"/docs/_data/breakpoints.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/breakpoints.yml",
+		"oAP": "/dist/docs/_data/breakpoints.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/browser-bugs.yml": {
+	"/docs/_data/browser-bugs.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/browser-bugs.yml",
+		"oAP": "/dist/docs/_data/browser-bugs.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/browser-features.yml": {
+	"/docs/_data/browser-features.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/browser-features.yml",
+		"oAP": "/dist/docs/_data/browser-features.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/core-team.yml": {
+	"/docs/_data/core-team.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/core-team.yml",
+		"oAP": "/dist/docs/_data/core-team.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/nav.yml": {
+	"/docs/_data/nav.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/nav.yml",
+		"oAP": "/dist/docs/_data/nav.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/showcase.yml": {
+	"/docs/_data/showcase.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/showcase.yml",
+		"oAP": "/dist/docs/_data/showcase.yml",
 		"oF": 0
 		},
-	"\/docs\/_data\/translations.yml": {
+	"/docs/_data/translations.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_data\/translations.yml",
+		"oAP": "/dist/docs/_data/translations.yml",
 		"oF": 0
 		},
-	"\/docs\/_includes\/ads.html": {
+	"/docs/_includes/ads.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/ads.html",
+		"oAP": "/dist/docs/_includes/ads.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/callout-warning-color-assistive-technologies.md": {
+	"/docs/_includes/callout-warning-color-assistive-technologies.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -160,7 +160,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/_includes\/callout-warning-color-assistive-technologies.html",
+		"oAP": "/dist/docs/_includes/callout-warning-color-assistive-technologies.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -169,112 +169,112 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/_includes\/footer.html": {
+	"/docs/_includes/footer.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/footer.html",
+		"oAP": "/dist/docs/_includes/footer.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/header.html": {
+	"/docs/_includes/header.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/header.html",
+		"oAP": "/dist/docs/_includes/header.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/nav-docs.html": {
+	"/docs/_includes/nav-docs.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/nav-docs.html",
+		"oAP": "/dist/docs/_includes/nav-docs.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/nav-home.html": {
+	"/docs/_includes/nav-home.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/nav-home.html",
+		"oAP": "/dist/docs/_includes/nav-home.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/page-headers.html": {
+	"/docs/_includes/page-headers.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/page-headers.html",
+		"oAP": "/dist/docs/_includes/page-headers.html",
 		"oF": 0
 		},
-	"\/docs\/_includes\/social.html": {
+	"/docs/_includes/social.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_includes\/social.html",
+		"oAP": "/dist/docs/_includes/social.html",
 		"oF": 0
 		},
-	"\/docs\/_layouts\/default.html": {
+	"/docs/_layouts/default.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_layouts\/default.html",
+		"oAP": "/dist/docs/_layouts/default.html",
 		"oF": 0
 		},
-	"\/docs\/_layouts\/docs.html": {
+	"/docs/_layouts/docs.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_layouts\/docs.html",
+		"oAP": "/dist/docs/_layouts/docs.html",
 		"oF": 0
 		},
-	"\/docs\/_layouts\/home.html": {
+	"/docs/_layouts/home.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_layouts\/home.html",
+		"oAP": "/dist/docs/_layouts/home.html",
 		"oF": 0
 		},
-	"\/docs\/_layouts\/simple.html": {
+	"/docs/_layouts/simple.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_layouts\/simple.html",
+		"oAP": "/dist/docs/_layouts/simple.html",
 		"oF": 0
 		},
-	"\/docs\/_plugins\/bridge.rb": {
+	"/docs/_plugins/bridge.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_plugins\/bridge.rb",
+		"oAP": "/dist/docs/_plugins/bridge.rb",
 		"oF": 0
 		},
-	"\/docs\/_plugins\/bugify.rb": {
+	"/docs/_plugins/bugify.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_plugins\/bugify.rb",
+		"oAP": "/dist/docs/_plugins/bugify.rb",
 		"oF": 0
 		},
-	"\/docs\/_plugins\/callout.rb": {
+	"/docs/_plugins/callout.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_plugins\/callout.rb",
+		"oAP": "/dist/docs/_plugins/callout.rb",
 		"oF": 0
 		},
-	"\/docs\/_plugins\/highlight_alt.rb": {
+	"/docs/_plugins/highlight_alt.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_plugins\/highlight_alt.rb",
+		"oAP": "/dist/docs/_plugins/highlight_alt.rb",
 		"oF": 0
 		},
-	"\/docs\/_plugins\/markdown-block.rb": {
+	"/docs/_plugins/markdown-block.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/_plugins\/markdown-block.rb",
+		"oAP": "/dist/docs/_plugins/markdown-block.rb",
 		"oF": 0
 		},
-	"\/docs\/about\/brand.md": {
+	"/docs/about/brand.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -283,7 +283,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/about\/brand.html",
+		"oAP": "/dist/docs/about/brand.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -292,7 +292,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/about\/history.md": {
+	"/docs/about/history.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -301,7 +301,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/about\/history.html",
+		"oAP": "/dist/docs/about/history.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -310,7 +310,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/about\/license.md": {
+	"/docs/about/license.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -319,7 +319,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/about\/license.html",
+		"oAP": "/dist/docs/about/license.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -328,7 +328,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/about\/team.md": {
+	"/docs/about/team.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -337,7 +337,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/about\/team.html",
+		"oAP": "/dist/docs/about/team.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -346,7 +346,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/about\/translations.md": {
+	"/docs/about/translations.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -355,7 +355,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/about\/translations.html",
+		"oAP": "/dist/docs/about/translations.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -364,275 +364,275 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/apple-touch-icon.png": {
+	"/docs/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6140,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/apple-touch-icon.png",
+		"oAP": "/dist/docs/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/brand\/bootstrap-outline.svg": {
+	"/docs/assets/brand/bootstrap-outline.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/assets\/brand\/bootstrap-outline.svg",
+		"oAP": "/dist/docs/assets/brand/bootstrap-outline.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/docs\/assets\/brand\/bootstrap-punchout.svg": {
+	"/docs/assets/brand/bootstrap-punchout.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/assets\/brand\/bootstrap-punchout.svg",
+		"oAP": "/dist/docs/assets/brand/bootstrap-punchout.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/docs\/assets\/brand\/bootstrap-social-logo.png": {
+	"/docs/assets/brand/bootstrap-social-logo.png": {
 		"ft": 32768,
 		"iS": 46176,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/brand\/bootstrap-social-logo.png",
+		"oAP": "/dist/docs/assets/brand/bootstrap-social-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/brand\/bootstrap-social.png": {
+	"/docs/assets/brand/bootstrap-social.png": {
 		"ft": 32768,
 		"iS": 337454,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/brand\/bootstrap-social.png",
+		"oAP": "/dist/docs/assets/brand/bootstrap-social.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/brand\/bootstrap-solid.svg": {
+	"/docs/assets/brand/bootstrap-solid.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/assets\/brand\/bootstrap-solid.svg",
+		"oAP": "/dist/docs/assets/brand/bootstrap-solid.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/docs\/assets\/css\/docs.min.css": {
+	"/docs/assets/css/docs.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/css\/docs.min-min.css",
+		"oAP": "/dist/docs/assets/css/docs.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/assets\/css\/docs.min.css.map": {
+	"/docs/assets/css/docs.min.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/assets\/css\/docs.min.css.map",
+		"oAP": "/dist/docs/assets/css/docs.min.css.map",
 		"oF": 0
 		},
-	"\/docs\/assets\/img\/bs-themes.png": {
+	"/docs/assets/img/bs-themes.png": {
 		"ft": 32768,
 		"iS": 178413,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/bs-themes.png",
+		"oAP": "/dist/docs/assets/img/bs-themes.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/components.png": {
+	"/docs/assets/img/components.png": {
 		"ft": 32768,
 		"iS": 2926,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/components.png",
+		"oAP": "/dist/docs/assets/img/components.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/devices.png": {
+	"/docs/assets/img/devices.png": {
 		"ft": 32768,
 		"iS": 3307,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/devices.png",
+		"oAP": "/dist/docs/assets/img/devices.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/expo-lyft.jpg": {
+	"/docs/assets/img/expo-lyft.jpg": {
 		"ft": 16384,
 		"iS": 159269,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/expo-lyft.jpg",
+		"oAP": "/dist/docs/assets/img/expo-lyft.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/expo-newsweek.jpg": {
+	"/docs/assets/img/expo-newsweek.jpg": {
 		"ft": 16384,
 		"iS": 201643,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/expo-newsweek.jpg",
+		"oAP": "/dist/docs/assets/img/expo-newsweek.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/expo-riot.jpg": {
+	"/docs/assets/img/expo-riot.jpg": {
 		"ft": 16384,
 		"iS": 161711,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/expo-riot.jpg",
+		"oAP": "/dist/docs/assets/img/expo-riot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/expo-vogue.jpg": {
+	"/docs/assets/img/expo-vogue.jpg": {
 		"ft": 16384,
 		"iS": 198620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/expo-vogue.jpg",
+		"oAP": "/dist/docs/assets/img/expo-vogue.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/assets\/img\/sass.png": {
+	"/docs/assets/img/sass.png": {
 		"ft": 32768,
 		"iS": 11365,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/assets\/img\/sass.png",
+		"oAP": "/dist/docs/assets/img/sass.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/assets\/js\/docs.min.js": {
+	"/docs/assets/js/docs.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/docs.min-min.js",
+		"oAP": "/dist/docs/assets/js/docs.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/ie-emulation-modes-warning.js": {
+	"/docs/assets/js/ie-emulation-modes-warning.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/ie-emulation-modes-warning-min.js",
+		"oAP": "/dist/docs/assets/js/ie-emulation-modes-warning-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/ie10-viewport-bug-workaround.js": {
+	"/docs/assets/js/ie10-viewport-bug-workaround.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/ie10-viewport-bug-workaround-min.js",
+		"oAP": "/dist/docs/assets/js/ie10-viewport-bug-workaround-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/src\/application.js": {
+	"/docs/assets/js/src/application.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/src\/application-min.js",
+		"oAP": "/dist/docs/assets/js/src/application-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/anchor.min.js": {
+	"/docs/assets/js/vendor/anchor.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/anchor.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/anchor.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/clipboard.min.js": {
+	"/docs/assets/js/vendor/clipboard.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/clipboard.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/clipboard.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/holder.min.js": {
+	"/docs/assets/js/vendor/holder.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/holder.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/holder.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/jekyll-search.min.js": {
+	"/docs/assets/js/vendor/jekyll-search.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/jekyll-search.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/jekyll-search.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/jquery-slim.min.js": {
+	"/docs/assets/js/vendor/jquery-slim.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/jquery-slim.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/jquery-slim.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/js\/vendor\/tether.min.js": {
+	"/docs/assets/js/vendor/tether.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/js\/vendor\/tether.min-min.js",
+		"oAP": "/dist/docs/assets/js/vendor/tether.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/assets\/scss\/_ads.scss": {
+	"/docs/assets/scss/_ads.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -640,12 +640,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_ads.css",
+		"oAP": "/dist/docs/assets/scss/_ads.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_anchor.scss": {
+	"/docs/assets/scss/_anchor.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -653,12 +653,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_anchor.css",
+		"oAP": "/dist/docs/assets/scss/_anchor.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_booticon.scss": {
+	"/docs/assets/scss/_booticon.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -666,12 +666,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_booticon.css",
+		"oAP": "/dist/docs/assets/scss/_booticon.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_brand.scss": {
+	"/docs/assets/scss/_brand.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -679,12 +679,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_brand.css",
+		"oAP": "/dist/docs/assets/scss/_brand.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_browser-bugs.scss": {
+	"/docs/assets/scss/_browser-bugs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -692,12 +692,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_browser-bugs.css",
+		"oAP": "/dist/docs/assets/scss/_browser-bugs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_buttons.scss": {
+	"/docs/assets/scss/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -705,12 +705,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_buttons.css",
+		"oAP": "/dist/docs/assets/scss/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_callouts.scss": {
+	"/docs/assets/scss/_callouts.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -718,12 +718,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_callouts.css",
+		"oAP": "/dist/docs/assets/scss/_callouts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_clipboard-js.scss": {
+	"/docs/assets/scss/_clipboard-js.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -731,12 +731,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_clipboard-js.css",
+		"oAP": "/dist/docs/assets/scss/_clipboard-js.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_component-examples.scss": {
+	"/docs/assets/scss/_component-examples.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -744,12 +744,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_component-examples.css",
+		"oAP": "/dist/docs/assets/scss/_component-examples.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_content.scss": {
+	"/docs/assets/scss/_content.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -757,12 +757,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_content.css",
+		"oAP": "/dist/docs/assets/scss/_content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_examples.scss": {
+	"/docs/assets/scss/_examples.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -770,12 +770,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_examples.css",
+		"oAP": "/dist/docs/assets/scss/_examples.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_featured-sites.scss": {
+	"/docs/assets/scss/_featured-sites.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -783,12 +783,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_featured-sites.css",
+		"oAP": "/dist/docs/assets/scss/_featured-sites.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_featurettes.scss": {
+	"/docs/assets/scss/_featurettes.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -796,12 +796,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_featurettes.css",
+		"oAP": "/dist/docs/assets/scss/_featurettes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_footer.scss": {
+	"/docs/assets/scss/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -809,12 +809,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_footer.css",
+		"oAP": "/dist/docs/assets/scss/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_masthead.scss": {
+	"/docs/assets/scss/_masthead.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -822,12 +822,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_masthead.css",
+		"oAP": "/dist/docs/assets/scss/_masthead.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_nav.scss": {
+	"/docs/assets/scss/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -835,12 +835,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_nav.css",
+		"oAP": "/dist/docs/assets/scss/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_page-header.scss": {
+	"/docs/assets/scss/_page-header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -848,12 +848,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_page-header.css",
+		"oAP": "/dist/docs/assets/scss/_page-header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_responsive-tests.scss": {
+	"/docs/assets/scss/_responsive-tests.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -861,12 +861,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_responsive-tests.css",
+		"oAP": "/dist/docs/assets/scss/_responsive-tests.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_sidebar.scss": {
+	"/docs/assets/scss/_sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -874,12 +874,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_sidebar.css",
+		"oAP": "/dist/docs/assets/scss/_sidebar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_skiplink.scss": {
+	"/docs/assets/scss/_skiplink.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -887,12 +887,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_skiplink.css",
+		"oAP": "/dist/docs/assets/scss/_skiplink.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_syntax.scss": {
+	"/docs/assets/scss/_syntax.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -900,12 +900,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_syntax.css",
+		"oAP": "/dist/docs/assets/scss/_syntax.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/_team.scss": {
+	"/docs/assets/scss/_team.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -913,12 +913,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/_team.css",
+		"oAP": "/dist/docs/assets/scss/_team.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/assets\/scss\/docs.scss": {
+	"/docs/assets/scss/docs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -926,12 +926,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/assets\/scss\/docs.css",
+		"oAP": "/dist/docs/assets/scss/docs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/docs\/browser-bugs.md": {
+	"/docs/browser-bugs.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -940,7 +940,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/browser-bugs.html",
+		"oAP": "/dist/docs/browser-bugs.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -949,14 +949,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/CNAME": {
+	"/docs/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/CNAME",
+		"oAP": "/dist/docs/CNAME",
 		"oF": 0
 		},
-	"\/docs\/components\/alerts.md": {
+	"/docs/components/alerts.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -965,7 +965,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/alerts.html",
+		"oAP": "/dist/docs/components/alerts.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -974,7 +974,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/badge.md": {
+	"/docs/components/badge.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -983,7 +983,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/badge.html",
+		"oAP": "/dist/docs/components/badge.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -992,7 +992,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/breadcrumb.md": {
+	"/docs/components/breadcrumb.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1001,7 +1001,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/breadcrumb.html",
+		"oAP": "/dist/docs/components/breadcrumb.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1010,7 +1010,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/button-group.md": {
+	"/docs/components/button-group.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1019,7 +1019,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/button-group.html",
+		"oAP": "/dist/docs/components/button-group.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1028,7 +1028,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/buttons.md": {
+	"/docs/components/buttons.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1037,7 +1037,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/buttons.html",
+		"oAP": "/dist/docs/components/buttons.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1046,7 +1046,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/card.md": {
+	"/docs/components/card.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1055,7 +1055,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/card.html",
+		"oAP": "/dist/docs/components/card.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1064,7 +1064,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/carousel.md": {
+	"/docs/components/carousel.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1073,7 +1073,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/carousel.html",
+		"oAP": "/dist/docs/components/carousel.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1082,7 +1082,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/collapse.md": {
+	"/docs/components/collapse.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1091,7 +1091,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/collapse.html",
+		"oAP": "/dist/docs/components/collapse.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1100,7 +1100,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/dropdowns.md": {
+	"/docs/components/dropdowns.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1109,7 +1109,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/dropdowns.html",
+		"oAP": "/dist/docs/components/dropdowns.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1118,7 +1118,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/forms.md": {
+	"/docs/components/forms.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1127,7 +1127,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/forms.html",
+		"oAP": "/dist/docs/components/forms.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1136,7 +1136,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/input-group.md": {
+	"/docs/components/input-group.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1145,7 +1145,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/input-group.html",
+		"oAP": "/dist/docs/components/input-group.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1154,7 +1154,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/jumbotron.md": {
+	"/docs/components/jumbotron.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1163,7 +1163,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/jumbotron.html",
+		"oAP": "/dist/docs/components/jumbotron.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1172,7 +1172,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/list-group.md": {
+	"/docs/components/list-group.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1181,7 +1181,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/list-group.html",
+		"oAP": "/dist/docs/components/list-group.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1190,7 +1190,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/modal.md": {
+	"/docs/components/modal.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1199,7 +1199,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/modal.html",
+		"oAP": "/dist/docs/components/modal.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1208,7 +1208,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/navbar.md": {
+	"/docs/components/navbar.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1217,7 +1217,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/navbar.html",
+		"oAP": "/dist/docs/components/navbar.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1226,7 +1226,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/navs.md": {
+	"/docs/components/navs.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1235,7 +1235,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/navs.html",
+		"oAP": "/dist/docs/components/navs.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1244,7 +1244,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/pagination.md": {
+	"/docs/components/pagination.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1253,7 +1253,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/pagination.html",
+		"oAP": "/dist/docs/components/pagination.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1262,7 +1262,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/popovers.md": {
+	"/docs/components/popovers.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1271,7 +1271,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/popovers.html",
+		"oAP": "/dist/docs/components/popovers.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1280,7 +1280,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/progress.md": {
+	"/docs/components/progress.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1289,7 +1289,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/progress.html",
+		"oAP": "/dist/docs/components/progress.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1298,7 +1298,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/scrollspy.md": {
+	"/docs/components/scrollspy.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1307,7 +1307,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/scrollspy.html",
+		"oAP": "/dist/docs/components/scrollspy.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1316,7 +1316,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/components\/tooltips.md": {
+	"/docs/components/tooltips.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1325,7 +1325,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/components\/tooltips.html",
+		"oAP": "/dist/docs/components/tooltips.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1334,7 +1334,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/code.md": {
+	"/docs/content/code.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1343,7 +1343,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/code.html",
+		"oAP": "/dist/docs/content/code.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1352,7 +1352,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/figures.md": {
+	"/docs/content/figures.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1361,7 +1361,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/figures.html",
+		"oAP": "/dist/docs/content/figures.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1370,7 +1370,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/images.md": {
+	"/docs/content/images.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1379,7 +1379,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/images.html",
+		"oAP": "/dist/docs/content/images.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1388,7 +1388,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/reboot.md": {
+	"/docs/content/reboot.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1397,7 +1397,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/reboot.html",
+		"oAP": "/dist/docs/content/reboot.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1406,7 +1406,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/tables.md": {
+	"/docs/content/tables.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1415,7 +1415,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/tables.html",
+		"oAP": "/dist/docs/content/tables.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1424,7 +1424,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/content\/typography.md": {
+	"/docs/content/typography.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1433,7 +1433,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/content\/typography.html",
+		"oAP": "/dist/docs/content/typography.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1442,331 +1442,331 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/dist\/Archive.zip": {
+	"/docs/dist/Archive.zip": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/Archive.zip",
+		"oAP": "/dist/docs/dist/Archive.zip",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-grid.css": {
+	"/docs/dist/css/bootstrap-grid.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-grid-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap-grid-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-grid.css.map": {
+	"/docs/dist/css/bootstrap-grid.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-grid.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap-grid.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-grid.min.css": {
+	"/docs/dist/css/bootstrap-grid.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-grid.min-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap-grid.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-grid.min.css.map": {
+	"/docs/dist/css/bootstrap-grid.min.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-grid.min.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap-grid.min.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-reboot.css": {
+	"/docs/dist/css/bootstrap-reboot.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-reboot-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap-reboot-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-reboot.css.map": {
+	"/docs/dist/css/bootstrap-reboot.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-reboot.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap-reboot.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-reboot.min.css": {
+	"/docs/dist/css/bootstrap-reboot.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-reboot.min-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap-reboot.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap-reboot.min.css.map": {
+	"/docs/dist/css/bootstrap-reboot.min.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-reboot.min.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap-reboot.min.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap.css": {
+	"/docs/dist/css/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap.css.map": {
+	"/docs/dist/css/bootstrap.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/css\/bootstrap.min.css": {
+	"/docs/dist/css/bootstrap.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap.min-min.css",
+		"oAP": "/dist/docs/dist/css/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/dist\/css\/bootstrap.min.css.map": {
+	"/docs/dist/css/bootstrap.min.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/dist\/css\/bootstrap.min.css.map",
+		"oAP": "/dist/docs/dist/css/bootstrap.min.css.map",
 		"oF": 0
 		},
-	"\/docs\/dist\/img\/card-one-lg.jpg": {
+	"/docs/dist/img/card-one-lg.jpg": {
 		"ft": 16384,
 		"iS": 66652,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/card-one-lg.jpg",
+		"oAP": "/dist/docs/dist/img/card-one-lg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/card-one-sm.jpg": {
+	"/docs/dist/img/card-one-sm.jpg": {
 		"ft": 16384,
 		"iS": 23297,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/card-one-sm.jpg",
+		"oAP": "/dist/docs/dist/img/card-one-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/card-two-lg.jpg": {
+	"/docs/dist/img/card-two-lg.jpg": {
 		"ft": 16384,
 		"iS": 97306,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/card-two-lg.jpg",
+		"oAP": "/dist/docs/dist/img/card-two-lg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/card-two-sm.jpg": {
+	"/docs/dist/img/card-two-sm.jpg": {
 		"ft": 16384,
 		"iS": 32969,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/card-two-sm.jpg",
+		"oAP": "/dist/docs/dist/img/card-two-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/header-lg.jpg": {
+	"/docs/dist/img/header-lg.jpg": {
 		"ft": 16384,
 		"iS": 206620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/header-lg.jpg",
+		"oAP": "/dist/docs/dist/img/header-lg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/header-md.jpg": {
+	"/docs/dist/img/header-md.jpg": {
 		"ft": 16384,
 		"iS": 108448,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/header-md.jpg",
+		"oAP": "/dist/docs/dist/img/header-md.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/header-sm.jpg": {
+	"/docs/dist/img/header-sm.jpg": {
 		"ft": 16384,
 		"iS": 40436,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/header-sm.jpg",
+		"oAP": "/dist/docs/dist/img/header-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/dist\/img\/logo-small.gif": {
+	"/docs/dist/img/logo-small.gif": {
 		"ft": 4194304,
 		"iS": 2960,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/logo-small.gif",
+		"oAP": "/dist/docs/dist/img/logo-small.gif",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/docs\/dist\/img\/logo3.gif": {
+	"/docs/dist/img/logo3.gif": {
 		"ft": 4194304,
 		"iS": 5021,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/dist\/img\/logo3.gif",
+		"oAP": "/dist/docs/dist/img/logo3.gif",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/docs\/dist\/js\/bootstrap.js": {
+	"/docs/dist/js/bootstrap.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/js\/bootstrap-min.js",
+		"oAP": "/dist/docs/dist/js/bootstrap-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/dist\/js\/bootstrap.min.js": {
+	"/docs/dist/js/bootstrap.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/dist\/js\/bootstrap.min-min.js",
+		"oAP": "/dist/docs/dist/js/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/examples\/album\/album.css": {
+	"/docs/examples/album/album.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/album\/album-min.css",
+		"oAP": "/dist/docs/examples/album/album-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/album\/index.html": {
+	"/docs/examples/album/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/album\/index.html",
+		"oAP": "/dist/docs/examples/album/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/blog\/blog.css": {
+	"/docs/examples/blog/blog.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/blog\/blog-min.css",
+		"oAP": "/dist/docs/examples/blog/blog-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/blog\/index.html": {
+	"/docs/examples/blog/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/blog\/index.html",
+		"oAP": "/dist/docs/examples/blog/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/carousel\/carousel.css": {
+	"/docs/examples/carousel/carousel.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/carousel\/carousel-min.css",
+		"oAP": "/dist/docs/examples/carousel/carousel-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/carousel\/index.html": {
+	"/docs/examples/carousel/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/carousel\/index.html",
+		"oAP": "/dist/docs/examples/carousel/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/cover\/cover.css": {
+	"/docs/examples/cover/cover.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/cover\/cover-min.css",
+		"oAP": "/dist/docs/examples/cover/cover-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/cover\/index.html": {
+	"/docs/examples/cover/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/cover\/index.html",
+		"oAP": "/dist/docs/examples/cover/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/dashboard\/dashboard.css": {
+	"/docs/examples/dashboard/dashboard.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/dashboard\/dashboard-min.css",
+		"oAP": "/dist/docs/examples/dashboard/dashboard-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/dashboard\/index.html": {
+	"/docs/examples/dashboard/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/dashboard\/index.html",
+		"oAP": "/dist/docs/examples/dashboard/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/grid\/grid.css": {
+	"/docs/examples/grid/grid.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/grid\/grid-min.css",
+		"oAP": "/dist/docs/examples/grid/grid-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/grid\/index.html": {
+	"/docs/examples/grid/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/grid\/index.html",
+		"oAP": "/dist/docs/examples/grid/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/index.md": {
+	"/docs/examples/index.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1775,7 +1775,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/index.html",
+		"oAP": "/dist/docs/examples/index.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1784,451 +1784,451 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/examples\/jumbotron\/index.html": {
+	"/docs/examples/jumbotron/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/jumbotron\/index.html",
+		"oAP": "/dist/docs/examples/jumbotron/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/jumbotron\/jumbotron.css": {
+	"/docs/examples/jumbotron/jumbotron.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/jumbotron\/jumbotron-min.css",
+		"oAP": "/dist/docs/examples/jumbotron/jumbotron-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/justified-nav\/index.html": {
+	"/docs/examples/justified-nav/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/justified-nav\/index.html",
+		"oAP": "/dist/docs/examples/justified-nav/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/justified-nav\/justified-nav.css": {
+	"/docs/examples/justified-nav/justified-nav.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/justified-nav\/justified-nav-min.css",
+		"oAP": "/dist/docs/examples/justified-nav/justified-nav-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/narrow-jumbotron\/index.html": {
+	"/docs/examples/narrow-jumbotron/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/narrow-jumbotron\/index.html",
+		"oAP": "/dist/docs/examples/narrow-jumbotron/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/narrow-jumbotron\/narrow-jumbotron.css": {
+	"/docs/examples/narrow-jumbotron/narrow-jumbotron.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/narrow-jumbotron\/narrow-jumbotron-min.css",
+		"oAP": "/dist/docs/examples/narrow-jumbotron/narrow-jumbotron-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/navbar-top-fixed\/index.html": {
+	"/docs/examples/navbar-top-fixed/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/navbar-top-fixed\/index.html",
+		"oAP": "/dist/docs/examples/navbar-top-fixed/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/navbar-top-fixed\/navbar-top-fixed.css": {
+	"/docs/examples/navbar-top-fixed/navbar-top-fixed.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/navbar-top-fixed\/navbar-top-fixed-min.css",
+		"oAP": "/dist/docs/examples/navbar-top-fixed/navbar-top-fixed-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/navbar-top\/index.html": {
+	"/docs/examples/navbar-top/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/navbar-top\/index.html",
+		"oAP": "/dist/docs/examples/navbar-top/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/navbar-top\/navbar-top.css": {
+	"/docs/examples/navbar-top/navbar-top.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/navbar-top\/navbar-top-min.css",
+		"oAP": "/dist/docs/examples/navbar-top/navbar-top-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/navbars\/index.html": {
+	"/docs/examples/navbars/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/navbars\/index.html",
+		"oAP": "/dist/docs/examples/navbars/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/navbars\/navbar.css": {
+	"/docs/examples/navbars/navbar.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/navbars\/navbar-min.css",
+		"oAP": "/dist/docs/examples/navbars/navbar-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/offcanvas\/index.html": {
+	"/docs/examples/offcanvas/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/offcanvas\/index.html",
+		"oAP": "/dist/docs/examples/offcanvas/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/offcanvas\/offcanvas.css": {
+	"/docs/examples/offcanvas/offcanvas.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/offcanvas\/offcanvas-min.css",
+		"oAP": "/dist/docs/examples/offcanvas/offcanvas-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/offcanvas\/offcanvas.js": {
+	"/docs/examples/offcanvas/offcanvas.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/offcanvas\/offcanvas-min.js",
+		"oAP": "/dist/docs/examples/offcanvas/offcanvas-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/examples\/screenshots\/album.jpg": {
+	"/docs/examples/screenshots/album.jpg": {
 		"ft": 16384,
 		"iS": 64394,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/album.jpg",
+		"oAP": "/dist/docs/examples/screenshots/album.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/blog.jpg": {
+	"/docs/examples/screenshots/blog.jpg": {
 		"ft": 16384,
 		"iS": 122280,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/blog.jpg",
+		"oAP": "/dist/docs/examples/screenshots/blog.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/carousel.jpg": {
+	"/docs/examples/screenshots/carousel.jpg": {
 		"ft": 16384,
 		"iS": 82270,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/carousel.jpg",
+		"oAP": "/dist/docs/examples/screenshots/carousel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/cover.jpg": {
+	"/docs/examples/screenshots/cover.jpg": {
 		"ft": 16384,
 		"iS": 36580,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/cover.jpg",
+		"oAP": "/dist/docs/examples/screenshots/cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/dashboard.jpg": {
+	"/docs/examples/screenshots/dashboard.jpg": {
 		"ft": 16384,
 		"iS": 105325,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/dashboard.jpg",
+		"oAP": "/dist/docs/examples/screenshots/dashboard.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/equal-height-columns.jpg": {
+	"/docs/examples/screenshots/equal-height-columns.jpg": {
 		"ft": 16384,
 		"iS": 129265,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/equal-height-columns.jpg",
+		"oAP": "/dist/docs/examples/screenshots/equal-height-columns.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/grid.jpg": {
+	"/docs/examples/screenshots/grid.jpg": {
 		"ft": 16384,
 		"iS": 99951,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/grid.jpg",
+		"oAP": "/dist/docs/examples/screenshots/grid.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/jumbotron-narrow.jpg": {
+	"/docs/examples/screenshots/jumbotron-narrow.jpg": {
 		"ft": 16384,
 		"iS": 68573,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/jumbotron-narrow.jpg",
+		"oAP": "/dist/docs/examples/screenshots/jumbotron-narrow.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/jumbotron.jpg": {
+	"/docs/examples/screenshots/jumbotron.jpg": {
 		"ft": 16384,
 		"iS": 101076,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/jumbotron.jpg",
+		"oAP": "/dist/docs/examples/screenshots/jumbotron.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/justified-nav.jpg": {
+	"/docs/examples/screenshots/justified-nav.jpg": {
 		"ft": 16384,
 		"iS": 79037,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/justified-nav.jpg",
+		"oAP": "/dist/docs/examples/screenshots/justified-nav.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/navbar-fixed.jpg": {
+	"/docs/examples/screenshots/navbar-fixed.jpg": {
 		"ft": 16384,
 		"iS": 37932,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/navbar-fixed.jpg",
+		"oAP": "/dist/docs/examples/screenshots/navbar-fixed.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/navbar-static.jpg": {
+	"/docs/examples/screenshots/navbar-static.jpg": {
 		"ft": 16384,
 		"iS": 39654,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/navbar-static.jpg",
+		"oAP": "/dist/docs/examples/screenshots/navbar-static.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/navbar.jpg": {
+	"/docs/examples/screenshots/navbar.jpg": {
 		"ft": 16384,
 		"iS": 40956,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/navbar.jpg",
+		"oAP": "/dist/docs/examples/screenshots/navbar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/non-responsive.jpg": {
+	"/docs/examples/screenshots/non-responsive.jpg": {
 		"ft": 16384,
 		"iS": 61060,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/non-responsive.jpg",
+		"oAP": "/dist/docs/examples/screenshots/non-responsive.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/offcanvas.jpg": {
+	"/docs/examples/screenshots/offcanvas.jpg": {
 		"ft": 16384,
 		"iS": 112527,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/offcanvas.jpg",
+		"oAP": "/dist/docs/examples/screenshots/offcanvas.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/sign-in.jpg": {
+	"/docs/examples/screenshots/sign-in.jpg": {
 		"ft": 16384,
 		"iS": 13596,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/sign-in.jpg",
+		"oAP": "/dist/docs/examples/screenshots/sign-in.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/starter-template.jpg": {
+	"/docs/examples/screenshots/starter-template.jpg": {
 		"ft": 16384,
 		"iS": 22571,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/starter-template.jpg",
+		"oAP": "/dist/docs/examples/screenshots/starter-template.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/sticky-footer-navbar.jpg": {
+	"/docs/examples/screenshots/sticky-footer-navbar.jpg": {
 		"ft": 16384,
 		"iS": 39249,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/sticky-footer-navbar.jpg",
+		"oAP": "/dist/docs/examples/screenshots/sticky-footer-navbar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/sticky-footer.jpg": {
+	"/docs/examples/screenshots/sticky-footer.jpg": {
 		"ft": 16384,
 		"iS": 25002,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/sticky-footer.jpg",
+		"oAP": "/dist/docs/examples/screenshots/sticky-footer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/screenshots\/theme.jpg": {
+	"/docs/examples/screenshots/theme.jpg": {
 		"ft": 16384,
 		"iS": 85405,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/examples\/screenshots\/theme.jpg",
+		"oAP": "/dist/docs/examples/screenshots/theme.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/docs\/examples\/signin\/index.html": {
+	"/docs/examples/signin/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/signin\/index.html",
+		"oAP": "/dist/docs/examples/signin/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/signin\/signin.css": {
+	"/docs/examples/signin/signin.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/signin\/signin-min.css",
+		"oAP": "/dist/docs/examples/signin/signin-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/starter-template\/index.html": {
+	"/docs/examples/starter-template/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/starter-template\/index.html",
+		"oAP": "/dist/docs/examples/starter-template/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/starter-template\/starter-template.css": {
+	"/docs/examples/starter-template/starter-template.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/starter-template\/starter-template-min.css",
+		"oAP": "/dist/docs/examples/starter-template/starter-template-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/sticky-footer-navbar\/index.html": {
+	"/docs/examples/sticky-footer-navbar/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/sticky-footer-navbar\/index.html",
+		"oAP": "/dist/docs/examples/sticky-footer-navbar/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/sticky-footer-navbar\/sticky-footer-navbar.css": {
+	"/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/sticky-footer-navbar\/sticky-footer-navbar-min.css",
+		"oAP": "/dist/docs/examples/sticky-footer-navbar/sticky-footer-navbar-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/sticky-footer\/index.html": {
+	"/docs/examples/sticky-footer/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/sticky-footer\/index.html",
+		"oAP": "/dist/docs/examples/sticky-footer/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/sticky-footer\/sticky-footer.css": {
+	"/docs/examples/sticky-footer/sticky-footer.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/sticky-footer\/sticky-footer-min.css",
+		"oAP": "/dist/docs/examples/sticky-footer/sticky-footer-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/tooltip-viewport\/index.html": {
+	"/docs/examples/tooltip-viewport/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/examples\/tooltip-viewport\/index.html",
+		"oAP": "/dist/docs/examples/tooltip-viewport/index.html",
 		"oF": 0
 		},
-	"\/docs\/examples\/tooltip-viewport\/tooltip-viewport.css": {
+	"/docs/examples/tooltip-viewport/tooltip-viewport.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.css",
+		"oAP": "/dist/docs/examples/tooltip-viewport/tooltip-viewport-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/docs\/examples\/tooltip-viewport\/tooltip-viewport.js": {
+	"/docs/examples/tooltip-viewport/tooltip-viewport.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.js",
+		"oAP": "/dist/docs/examples/tooltip-viewport/tooltip-viewport-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/docs\/extend\/approach.md": {
+	"/docs/extend/approach.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2237,7 +2237,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/extend\/approach.html",
+		"oAP": "/dist/docs/extend/approach.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2246,7 +2246,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/extend\/icon-fonts.md": {
+	"/docs/extend/icon-fonts.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2255,7 +2255,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/extend\/icon-fonts.html",
+		"oAP": "/dist/docs/extend/icon-fonts.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2264,7 +2264,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/extend\/index.md": {
+	"/docs/extend/index.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2273,7 +2273,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/extend\/index.html",
+		"oAP": "/dist/docs/extend/index.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2282,14 +2282,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/favicon.ico": {
+	"/docs/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/favicon.ico",
+		"oAP": "/dist/docs/favicon.ico",
 		"oF": 0
 		},
-	"\/docs\/getting-started\/accessibility.md": {
+	"/docs/getting-started/accessibility.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2298,7 +2298,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/accessibility.html",
+		"oAP": "/dist/docs/getting-started/accessibility.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2307,7 +2307,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/best-practices.md": {
+	"/docs/getting-started/best-practices.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2316,7 +2316,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/best-practices.html",
+		"oAP": "/dist/docs/getting-started/best-practices.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2325,7 +2325,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/browsers-devices.md": {
+	"/docs/getting-started/browsers-devices.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2334,7 +2334,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/browsers-devices.html",
+		"oAP": "/dist/docs/getting-started/browsers-devices.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2343,7 +2343,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/build-tools.md": {
+	"/docs/getting-started/build-tools.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2352,7 +2352,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/build-tools.html",
+		"oAP": "/dist/docs/getting-started/build-tools.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2361,7 +2361,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/contents.md": {
+	"/docs/getting-started/contents.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2370,7 +2370,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/contents.html",
+		"oAP": "/dist/docs/getting-started/contents.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2379,7 +2379,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/download.md": {
+	"/docs/getting-started/download.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2388,7 +2388,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/download.html",
+		"oAP": "/dist/docs/getting-started/download.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2397,7 +2397,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/introduction.md": {
+	"/docs/getting-started/introduction.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2406,7 +2406,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/introduction.html",
+		"oAP": "/dist/docs/getting-started/introduction.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2415,7 +2415,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/javascript.md": {
+	"/docs/getting-started/javascript.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2424,7 +2424,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/javascript.html",
+		"oAP": "/dist/docs/getting-started/javascript.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2433,7 +2433,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/getting-started\/options.md": {
+	"/docs/getting-started/options.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2442,7 +2442,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/getting-started\/options.html",
+		"oAP": "/dist/docs/getting-started/options.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2451,14 +2451,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/index.html": {
+	"/docs/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/index.html",
+		"oAP": "/dist/docs/index.html",
 		"oF": 0
 		},
-	"\/docs\/layout\/grid.md": {
+	"/docs/layout/grid.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2467,7 +2467,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/layout\/grid.html",
+		"oAP": "/dist/docs/layout/grid.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2476,7 +2476,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/layout\/media-object.md": {
+	"/docs/layout/media-object.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2485,7 +2485,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/layout\/media-object.html",
+		"oAP": "/dist/docs/layout/media-object.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2494,7 +2494,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/layout\/overview.md": {
+	"/docs/layout/overview.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2503,7 +2503,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/layout\/overview.html",
+		"oAP": "/dist/docs/layout/overview.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2512,7 +2512,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/layout\/responsive-utilities.md": {
+	"/docs/layout/responsive-utilities.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2521,7 +2521,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/layout\/responsive-utilities.html",
+		"oAP": "/dist/docs/layout/responsive-utilities.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2530,14 +2530,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/LICENSE": {
+	"/docs/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/LICENSE",
+		"oAP": "/dist/docs/LICENSE",
 		"oF": 0
 		},
-	"\/docs\/migration.md": {
+	"/docs/migration.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2546,7 +2546,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/migration.html",
+		"oAP": "/dist/docs/migration.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2555,22 +2555,22 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/robots.txt": {
+	"/docs/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/docs\/robots.txt",
+		"oAP": "/dist/docs/robots.txt",
 		"oF": 0
 		},
-	"\/docs\/search.json": {
+	"/docs/search.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/docs\/search-min.json",
+		"oAP": "/dist/docs/search-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/docs\/utilities\/borders.md": {
+	"/docs/utilities/borders.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2579,7 +2579,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/borders.html",
+		"oAP": "/dist/docs/utilities/borders.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2588,7 +2588,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/clearfix.md": {
+	"/docs/utilities/clearfix.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2597,7 +2597,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/clearfix.html",
+		"oAP": "/dist/docs/utilities/clearfix.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2606,7 +2606,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/close-icon.md": {
+	"/docs/utilities/close-icon.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2615,7 +2615,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/close-icon.html",
+		"oAP": "/dist/docs/utilities/close-icon.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2624,7 +2624,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/colors.md": {
+	"/docs/utilities/colors.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2633,7 +2633,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/colors.html",
+		"oAP": "/dist/docs/utilities/colors.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2642,7 +2642,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/display-property.md": {
+	"/docs/utilities/display-property.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2651,7 +2651,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/display-property.html",
+		"oAP": "/dist/docs/utilities/display-property.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2660,7 +2660,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/flexbox.md": {
+	"/docs/utilities/flexbox.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2669,7 +2669,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/flexbox.html",
+		"oAP": "/dist/docs/utilities/flexbox.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2678,7 +2678,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/image-replacement.md": {
+	"/docs/utilities/image-replacement.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2687,7 +2687,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/image-replacement.html",
+		"oAP": "/dist/docs/utilities/image-replacement.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2696,7 +2696,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/invisible-content.md": {
+	"/docs/utilities/invisible-content.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2705,7 +2705,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/invisible-content.html",
+		"oAP": "/dist/docs/utilities/invisible-content.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2714,7 +2714,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/position.md": {
+	"/docs/utilities/position.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2723,7 +2723,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/position.html",
+		"oAP": "/dist/docs/utilities/position.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2732,7 +2732,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/responsive-helpers.md": {
+	"/docs/utilities/responsive-helpers.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2741,7 +2741,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/responsive-helpers.html",
+		"oAP": "/dist/docs/utilities/responsive-helpers.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2750,7 +2750,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/screenreaders.md": {
+	"/docs/utilities/screenreaders.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2759,7 +2759,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/screenreaders.html",
+		"oAP": "/dist/docs/utilities/screenreaders.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2768,7 +2768,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/sizing.md": {
+	"/docs/utilities/sizing.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2777,7 +2777,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/sizing.html",
+		"oAP": "/dist/docs/utilities/sizing.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2786,7 +2786,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/spacing.md": {
+	"/docs/utilities/spacing.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2795,7 +2795,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/spacing.html",
+		"oAP": "/dist/docs/utilities/spacing.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2804,7 +2804,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/typography.md": {
+	"/docs/utilities/typography.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2813,7 +2813,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/typography.html",
+		"oAP": "/dist/docs/utilities/typography.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2822,7 +2822,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/docs\/utilities\/vertical-align.md": {
+	"/docs/utilities/vertical-align.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2831,7 +2831,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/docs\/utilities\/vertical-align.html",
+		"oAP": "/dist/docs/utilities/vertical-align.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2840,195 +2840,195 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/Gemfile": {
+	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/Gemfile",
+		"oAP": "/dist/Gemfile",
 		"oF": 0
 		},
-	"\/Gemfile.lock": {
+	"/Gemfile.lock": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/Gemfile.lock",
+		"oAP": "/dist/Gemfile.lock",
 		"oF": 0
 		},
-	"\/grunt\/change-version.js": {
+	"/grunt/change-version.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/grunt\/change-version-min.js",
+		"oAP": "/dist/grunt/change-version-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/grunt\/configBridge.json": {
+	"/grunt/configBridge.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/grunt\/configBridge-min.json",
+		"oAP": "/dist/grunt/configBridge-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/grunt\/gcp-key.json.enc": {
+	"/grunt/gcp-key.json.enc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/grunt\/gcp-key.json.enc",
+		"oAP": "/dist/grunt/gcp-key.json.enc",
 		"oF": 0
 		},
-	"\/grunt\/npm-shrinkwrap.json": {
+	"/grunt/npm-shrinkwrap.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/grunt\/npm-shrinkwrap-min.json",
+		"oAP": "/dist/grunt/npm-shrinkwrap-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/grunt\/postcss.js": {
+	"/grunt/postcss.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/grunt\/postcss-min.js",
+		"oAP": "/dist/grunt/postcss-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/grunt\/sauce_browsers.yml": {
+	"/grunt/sauce_browsers.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/grunt\/sauce_browsers.yml",
+		"oAP": "/dist/grunt/sauce_browsers.yml",
 		"oF": 0
 		},
-	"\/grunt\/upload-preview.sh": {
+	"/grunt/upload-preview.sh": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/grunt\/upload-preview.sh",
+		"oAP": "/dist/grunt/upload-preview.sh",
 		"oF": 0
 		},
-	"\/Gruntfile.js": {
+	"/Gruntfile.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/Gruntfile-min.js",
+		"oAP": "/dist/Gruntfile-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/img.zip": {
+	"/img.zip": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/img.zip",
+		"oAP": "/dist/img.zip",
 		"oF": 0
 		},
-	"\/img\/card-one-lg.jpg": {
+	"/img/card-one-lg.jpg": {
 		"ft": 16384,
 		"iS": 66652,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/card-one-lg.jpg",
+		"oAP": "/dist/img/card-one-lg.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/card-one-sm.jpg": {
+	"/img/card-one-sm.jpg": {
 		"ft": 16384,
 		"iS": 23297,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/card-one-sm.jpg",
+		"oAP": "/dist/img/card-one-sm.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/card-two-lg.jpg": {
+	"/img/card-two-lg.jpg": {
 		"ft": 16384,
 		"iS": 97306,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/card-two-lg.jpg",
+		"oAP": "/dist/img/card-two-lg.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/card-two-sm.jpg": {
+	"/img/card-two-sm.jpg": {
 		"ft": 16384,
 		"iS": 32969,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/card-two-sm.jpg",
+		"oAP": "/dist/img/card-two-sm.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/header-lg.jpg": {
+	"/img/header-lg.jpg": {
 		"ft": 16384,
 		"iS": 206620,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/header-lg.jpg",
+		"oAP": "/dist/img/header-lg.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/header-md.jpg": {
+	"/img/header-md.jpg": {
 		"ft": 16384,
 		"iS": 108448,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/header-md.jpg",
+		"oAP": "/dist/img/header-md.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/header-sm.jpg": {
+	"/img/header-sm.jpg": {
 		"ft": 16384,
 		"iS": 40436,
 		"jF": 0,
 		"oA": 2,
-		"oAP": "\/dist\/img\/header-sm.jpg",
+		"oAP": "/dist/img/header-sm.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/logo-small.gif": {
+	"/img/logo-small.gif": {
 		"ft": 4194304,
 		"iS": 2960,
 		"oA": 2,
-		"oAP": "\/dist\/img\/logo-small.gif",
+		"oAP": "/dist/img/logo-small.gif",
 		"oF": 1,
 		"opt": 0
 		},
-	"\/img\/logo3.gif": {
+	"/img/logo3.gif": {
 		"ft": 4194304,
 		"iS": 5021,
 		"oA": 2,
-		"oAP": "\/dist\/img\/logo3.gif",
+		"oAP": "/dist/img/logo3.gif",
 		"oF": 1,
 		"opt": 0
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/index.html",
+		"oAP": "/dist/index.html",
 		"oF": 3
 		},
-	"\/ISSUE_TEMPLATE.md": {
+	"/ISSUE_TEMPLATE.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -3037,7 +3037,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/ISSUE_TEMPLATE.html",
+		"oAP": "/dist/ISSUE_TEMPLATE.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3046,334 +3046,334 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/js\/.babelrc": {
+	"/js/.babelrc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/.babelrc",
+		"oAP": "/dist/js/.babelrc",
 		"oF": 0
 		},
-	"\/js\/.eslintrc.json": {
+	"/js/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/js\/.eslintrc-min.json",
+		"oAP": "/dist/js/.eslintrc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/js\/dist\/alert.js": {
+	"/js/dist/alert.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/alert-min.js",
+		"oAP": "/dist/js/dist/alert-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/alert.js.map": {
+	"/js/dist/alert.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/alert.js.map",
+		"oAP": "/dist/js/dist/alert.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/button.js": {
+	"/js/dist/button.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/button-min.js",
+		"oAP": "/dist/js/dist/button-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/button.js.map": {
+	"/js/dist/button.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/button.js.map",
+		"oAP": "/dist/js/dist/button.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/carousel.js": {
+	"/js/dist/carousel.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/carousel-min.js",
+		"oAP": "/dist/js/dist/carousel-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/carousel.js.map": {
+	"/js/dist/carousel.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/carousel.js.map",
+		"oAP": "/dist/js/dist/carousel.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/collapse.js": {
+	"/js/dist/collapse.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/collapse-min.js",
+		"oAP": "/dist/js/dist/collapse-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/collapse.js.map": {
+	"/js/dist/collapse.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/collapse.js.map",
+		"oAP": "/dist/js/dist/collapse.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/dropdown.js": {
+	"/js/dist/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/dropdown-min.js",
+		"oAP": "/dist/js/dist/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/dropdown.js.map": {
+	"/js/dist/dropdown.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/dropdown.js.map",
+		"oAP": "/dist/js/dist/dropdown.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/modal.js": {
+	"/js/dist/modal.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/modal-min.js",
+		"oAP": "/dist/js/dist/modal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/modal.js.map": {
+	"/js/dist/modal.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/modal.js.map",
+		"oAP": "/dist/js/dist/modal.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/popover.js": {
+	"/js/dist/popover.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/popover-min.js",
+		"oAP": "/dist/js/dist/popover-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/popover.js.map": {
+	"/js/dist/popover.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/popover.js.map",
+		"oAP": "/dist/js/dist/popover.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/scrollspy.js": {
+	"/js/dist/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/scrollspy-min.js",
+		"oAP": "/dist/js/dist/scrollspy-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/scrollspy.js.map": {
+	"/js/dist/scrollspy.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/scrollspy.js.map",
+		"oAP": "/dist/js/dist/scrollspy.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/tab.js": {
+	"/js/dist/tab.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/tab-min.js",
+		"oAP": "/dist/js/dist/tab-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/tab.js.map": {
+	"/js/dist/tab.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/tab.js.map",
+		"oAP": "/dist/js/dist/tab.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/tooltip.js": {
+	"/js/dist/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/tooltip-min.js",
+		"oAP": "/dist/js/dist/tooltip-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/tooltip.js.map": {
+	"/js/dist/tooltip.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/tooltip.js.map",
+		"oAP": "/dist/js/dist/tooltip.js.map",
 		"oF": 0
 		},
-	"\/js\/dist\/util.js": {
+	"/js/dist/util.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/dist\/util-min.js",
+		"oAP": "/dist/js/dist/util-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/dist\/util.js.map": {
+	"/js/dist/util.js.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/dist\/util.js.map",
+		"oAP": "/dist/js/dist/util.js.map",
 		"oF": 0
 		},
-	"\/js\/src\/alert.js": {
+	"/js/src/alert.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/alert-min.js",
+		"oAP": "/dist/js/src/alert-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/button.js": {
+	"/js/src/button.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/button-min.js",
+		"oAP": "/dist/js/src/button-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/carousel.js": {
+	"/js/src/carousel.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/carousel-min.js",
+		"oAP": "/dist/js/src/carousel-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/collapse.js": {
+	"/js/src/collapse.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/collapse-min.js",
+		"oAP": "/dist/js/src/collapse-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/dropdown.js": {
+	"/js/src/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/dropdown-min.js",
+		"oAP": "/dist/js/src/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/modal.js": {
+	"/js/src/modal.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/modal-min.js",
+		"oAP": "/dist/js/src/modal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/popover.js": {
+	"/js/src/popover.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/popover-min.js",
+		"oAP": "/dist/js/src/popover-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/scrollspy.js": {
+	"/js/src/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/scrollspy-min.js",
+		"oAP": "/dist/js/src/scrollspy-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/tab.js": {
+	"/js/src/tab.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/tab-min.js",
+		"oAP": "/dist/js/src/tab-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/tooltip.js": {
+	"/js/src/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/tooltip-min.js",
+		"oAP": "/dist/js/src/tooltip-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/util.js": {
+	"/js/src/util.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/src\/util-min.js",
+		"oAP": "/dist/js/src/util-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/.eslintrc.json": {
+	"/js/tests/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/.eslintrc-min.json",
+		"oAP": "/dist/js/tests/.eslintrc-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/js\/tests\/index.html": {
+	"/js/tests/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/index.html",
+		"oAP": "/dist/js/tests/index.html",
 		"oF": 0
 		},
-	"\/js\/tests\/README.md": {
+	"/js/tests/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -3382,7 +3382,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/js\/tests\/README.html",
+		"oAP": "/dist/js/tests/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3391,259 +3391,259 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/js\/tests\/unit\/alert.js": {
+	"/js/tests/unit/alert.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/alert-min.js",
+		"oAP": "/dist/js/tests/unit/alert-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/button.js": {
+	"/js/tests/unit/button.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/button-min.js",
+		"oAP": "/dist/js/tests/unit/button-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/carousel.js": {
+	"/js/tests/unit/carousel.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/carousel-min.js",
+		"oAP": "/dist/js/tests/unit/carousel-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/collapse.js": {
+	"/js/tests/unit/collapse.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/collapse-min.js",
+		"oAP": "/dist/js/tests/unit/collapse-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/dropdown.js": {
+	"/js/tests/unit/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/dropdown-min.js",
+		"oAP": "/dist/js/tests/unit/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/modal.js": {
+	"/js/tests/unit/modal.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/modal-min.js",
+		"oAP": "/dist/js/tests/unit/modal-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/phantom.js": {
+	"/js/tests/unit/phantom.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/phantom-min.js",
+		"oAP": "/dist/js/tests/unit/phantom-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/popover.js": {
+	"/js/tests/unit/popover.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/popover-min.js",
+		"oAP": "/dist/js/tests/unit/popover-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/scrollspy.js": {
+	"/js/tests/unit/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/scrollspy-min.js",
+		"oAP": "/dist/js/tests/unit/scrollspy-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/tab.js": {
+	"/js/tests/unit/tab.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/tab-min.js",
+		"oAP": "/dist/js/tests/unit/tab-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/unit\/tooltip.js": {
+	"/js/tests/unit/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/unit\/tooltip-min.js",
+		"oAP": "/dist/js/tests/unit/tooltip-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/vendor\/qunit.css": {
+	"/js/tests/vendor/qunit.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/vendor\/qunit-min.css",
+		"oAP": "/dist/js/tests/vendor/qunit-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/js\/tests\/vendor\/qunit.js": {
+	"/js/tests/vendor/qunit.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/js\/tests\/vendor\/qunit-min.js",
+		"oAP": "/dist/js/tests/vendor/qunit-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/tests\/visual\/alert.html": {
+	"/js/tests/visual/alert.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/alert.html",
+		"oAP": "/dist/js/tests/visual/alert.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/button.html": {
+	"/js/tests/visual/button.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/button.html",
+		"oAP": "/dist/js/tests/visual/button.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/carousel.html": {
+	"/js/tests/visual/carousel.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/carousel.html",
+		"oAP": "/dist/js/tests/visual/carousel.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/collapse.html": {
+	"/js/tests/visual/collapse.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/collapse.html",
+		"oAP": "/dist/js/tests/visual/collapse.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/dropdown.html": {
+	"/js/tests/visual/dropdown.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/dropdown.html",
+		"oAP": "/dist/js/tests/visual/dropdown.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/modal.html": {
+	"/js/tests/visual/modal.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/modal.html",
+		"oAP": "/dist/js/tests/visual/modal.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/popover.html": {
+	"/js/tests/visual/popover.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/popover.html",
+		"oAP": "/dist/js/tests/visual/popover.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/scrollspy.html": {
+	"/js/tests/visual/scrollspy.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/scrollspy.html",
+		"oAP": "/dist/js/tests/visual/scrollspy.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/tab.html": {
+	"/js/tests/visual/tab.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/tab.html",
+		"oAP": "/dist/js/tests/visual/tab.html",
 		"oF": 0
 		},
-	"\/js\/tests\/visual\/tooltip.html": {
+	"/js/tests/visual/tooltip.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/js\/tests\/visual\/tooltip.html",
+		"oAP": "/dist/js/tests/visual/tooltip.html",
 		"oF": 0
 		},
-	"\/LICENSE": {
+	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/LICENSE",
+		"oAP": "/dist/LICENSE",
 		"oF": 0
 		},
-	"\/node_modules": {
+	"/node_modules": {
 		"ft": 65536,
 		"oA": 2,
-		"oAP": "\/dist\/node_modules",
+		"oAP": "/dist/node_modules",
 		"oF": 0
 		},
-	"\/nuget\/bootstrap.nuspec": {
+	"/nuget/bootstrap.nuspec": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/nuget\/bootstrap.nuspec",
+		"oAP": "/dist/nuget/bootstrap.nuspec",
 		"oF": 0
 		},
-	"\/nuget\/bootstrap.sass.nuspec": {
+	"/nuget/bootstrap.sass.nuspec": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/nuget\/bootstrap.sass.nuspec",
+		"oAP": "/dist/nuget/bootstrap.sass.nuspec",
 		"oF": 0
 		},
-	"\/nuget\/MyGet.ps1": {
+	"/nuget/MyGet.ps1": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/nuget\/MyGet.ps1",
+		"oAP": "/dist/nuget/MyGet.ps1",
 		"oF": 0
 		},
-	"\/package.js": {
+	"/package.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/dist\/package-min.js",
+		"oAP": "/dist/package-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/package.json": {
+	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/package-min.json",
+		"oAP": "/dist/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -3652,7 +3652,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/dist\/README.html",
+		"oAP": "/dist/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3661,22 +3661,22 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/sache.json": {
+	"/sache.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/dist\/sache-min.json",
+		"oAP": "/dist/sache-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/scss\/.scss-lint.yml": {
+	"/scss/.scss-lint.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/scss\/.scss-lint.yml",
+		"oAP": "/dist/scss/.scss-lint.yml",
 		"oF": 0
 		},
-	"\/scss\/_alert.scss": {
+	"/scss/_alert.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3684,12 +3684,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_alert.css",
+		"oAP": "/dist/scss/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_badge.scss": {
+	"/scss/_badge.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3697,12 +3697,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_badge.css",
+		"oAP": "/dist/scss/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_breadcrumb.scss": {
+	"/scss/_breadcrumb.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3710,12 +3710,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_breadcrumb.css",
+		"oAP": "/dist/scss/_breadcrumb.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_button-group.scss": {
+	"/scss/_button-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3723,12 +3723,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_button-group.css",
+		"oAP": "/dist/scss/_button-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_buttons.scss": {
+	"/scss/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3736,12 +3736,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_buttons.css",
+		"oAP": "/dist/scss/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_card.scss": {
+	"/scss/_card.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3749,12 +3749,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_card.css",
+		"oAP": "/dist/scss/_card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_carousel.scss": {
+	"/scss/_carousel.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3762,12 +3762,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_carousel.css",
+		"oAP": "/dist/scss/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_close.scss": {
+	"/scss/_close.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3775,12 +3775,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_close.css",
+		"oAP": "/dist/scss/_close.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_code.scss": {
+	"/scss/_code.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3788,12 +3788,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_code.css",
+		"oAP": "/dist/scss/_code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_custom-forms.scss": {
+	"/scss/_custom-forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3801,12 +3801,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_custom-forms.css",
+		"oAP": "/dist/scss/_custom-forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_custom.scss": {
+	"/scss/_custom.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3814,12 +3814,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_custom.css",
+		"oAP": "/dist/scss/_custom.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_dropdown.scss": {
+	"/scss/_dropdown.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3827,12 +3827,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_dropdown.css",
+		"oAP": "/dist/scss/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_forms.scss": {
+	"/scss/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3840,12 +3840,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_forms.css",
+		"oAP": "/dist/scss/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_grid.scss": {
+	"/scss/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3853,12 +3853,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_grid.css",
+		"oAP": "/dist/scss/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_images.scss": {
+	"/scss/_images.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3866,12 +3866,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_images.css",
+		"oAP": "/dist/scss/_images.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_input-group.scss": {
+	"/scss/_input-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3879,12 +3879,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_input-group.css",
+		"oAP": "/dist/scss/_input-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_jumbotron.scss": {
+	"/scss/_jumbotron.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3892,12 +3892,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_jumbotron.css",
+		"oAP": "/dist/scss/_jumbotron.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_list-group.scss": {
+	"/scss/_list-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3905,12 +3905,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_list-group.css",
+		"oAP": "/dist/scss/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_media.scss": {
+	"/scss/_media.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3918,12 +3918,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_media.css",
+		"oAP": "/dist/scss/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_mixins.scss": {
+	"/scss/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3931,12 +3931,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_mixins.css",
+		"oAP": "/dist/scss/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_modal.scss": {
+	"/scss/_modal.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3944,12 +3944,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_modal.css",
+		"oAP": "/dist/scss/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_nav.scss": {
+	"/scss/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3957,12 +3957,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_nav.css",
+		"oAP": "/dist/scss/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_navbar.scss": {
+	"/scss/_navbar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3970,12 +3970,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_navbar.css",
+		"oAP": "/dist/scss/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_normalize.scss": {
+	"/scss/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3983,12 +3983,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_normalize.css",
+		"oAP": "/dist/scss/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_pagination.scss": {
+	"/scss/_pagination.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3996,12 +3996,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_pagination.css",
+		"oAP": "/dist/scss/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_popover.scss": {
+	"/scss/_popover.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4009,12 +4009,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_popover.css",
+		"oAP": "/dist/scss/_popover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_print.scss": {
+	"/scss/_print.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4022,12 +4022,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_print.css",
+		"oAP": "/dist/scss/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_progress.scss": {
+	"/scss/_progress.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4035,12 +4035,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_progress.css",
+		"oAP": "/dist/scss/_progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_reboot.scss": {
+	"/scss/_reboot.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4048,12 +4048,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_reboot.css",
+		"oAP": "/dist/scss/_reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_responsive-embed.scss": {
+	"/scss/_responsive-embed.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4061,12 +4061,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_responsive-embed.css",
+		"oAP": "/dist/scss/_responsive-embed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_tables.scss": {
+	"/scss/_tables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4074,12 +4074,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_tables.css",
+		"oAP": "/dist/scss/_tables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_tooltip.scss": {
+	"/scss/_tooltip.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4087,12 +4087,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_tooltip.css",
+		"oAP": "/dist/scss/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_transitions.scss": {
+	"/scss/_transitions.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4100,12 +4100,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_transitions.css",
+		"oAP": "/dist/scss/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_type.scss": {
+	"/scss/_type.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4113,12 +4113,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_type.css",
+		"oAP": "/dist/scss/_type.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_utilities.scss": {
+	"/scss/_utilities.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4126,12 +4126,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_utilities.css",
+		"oAP": "/dist/scss/_utilities.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/_variables.scss": {
+	"/scss/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4139,12 +4139,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/_variables.css",
+		"oAP": "/dist/scss/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/bootstrap-grid.scss": {
+	"/scss/bootstrap-grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4152,12 +4152,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/bootstrap-grid.css",
+		"oAP": "/dist/scss/bootstrap-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/bootstrap-reboot.scss": {
+	"/scss/bootstrap-reboot.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4165,12 +4165,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/bootstrap-reboot.css",
+		"oAP": "/dist/scss/bootstrap-reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/bootstrap.scss": {
+	"/scss/bootstrap.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4178,12 +4178,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/dist\/css\/bootstrap.min.css",
+		"oAP": "/dist/css/bootstrap.min.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_alert.scss": {
+	"/scss/mixins/_alert.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4191,12 +4191,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_alert.css",
+		"oAP": "/dist/scss/mixins/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_background-variant.scss": {
+	"/scss/mixins/_background-variant.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4204,12 +4204,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_background-variant.css",
+		"oAP": "/dist/scss/mixins/_background-variant.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_badge.scss": {
+	"/scss/mixins/_badge.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4217,12 +4217,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_badge.css",
+		"oAP": "/dist/scss/mixins/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_border-radius.scss": {
+	"/scss/mixins/_border-radius.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4230,12 +4230,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_border-radius.css",
+		"oAP": "/dist/scss/mixins/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_breakpoints.scss": {
+	"/scss/mixins/_breakpoints.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4243,12 +4243,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_breakpoints.css",
+		"oAP": "/dist/scss/mixins/_breakpoints.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_buttons.scss": {
+	"/scss/mixins/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4256,12 +4256,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_buttons.css",
+		"oAP": "/dist/scss/mixins/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_cards.scss": {
+	"/scss/mixins/_cards.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4269,12 +4269,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_cards.css",
+		"oAP": "/dist/scss/mixins/_cards.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_clearfix.scss": {
+	"/scss/mixins/_clearfix.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4282,12 +4282,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_clearfix.css",
+		"oAP": "/dist/scss/mixins/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_float.scss": {
+	"/scss/mixins/_float.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4295,12 +4295,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_float.css",
+		"oAP": "/dist/scss/mixins/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_forms.scss": {
+	"/scss/mixins/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4308,12 +4308,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_forms.css",
+		"oAP": "/dist/scss/mixins/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_gradients.scss": {
+	"/scss/mixins/_gradients.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4321,12 +4321,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_gradients.css",
+		"oAP": "/dist/scss/mixins/_gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_grid-framework.scss": {
+	"/scss/mixins/_grid-framework.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4334,12 +4334,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_grid-framework.css",
+		"oAP": "/dist/scss/mixins/_grid-framework.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_grid.scss": {
+	"/scss/mixins/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4347,12 +4347,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_grid.css",
+		"oAP": "/dist/scss/mixins/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_hover.scss": {
+	"/scss/mixins/_hover.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4360,12 +4360,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_hover.css",
+		"oAP": "/dist/scss/mixins/_hover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_image.scss": {
+	"/scss/mixins/_image.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4373,12 +4373,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_image.css",
+		"oAP": "/dist/scss/mixins/_image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_list-group.scss": {
+	"/scss/mixins/_list-group.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4386,12 +4386,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_list-group.css",
+		"oAP": "/dist/scss/mixins/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_lists.scss": {
+	"/scss/mixins/_lists.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4399,12 +4399,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_lists.css",
+		"oAP": "/dist/scss/mixins/_lists.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_nav-divider.scss": {
+	"/scss/mixins/_nav-divider.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4412,12 +4412,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_nav-divider.css",
+		"oAP": "/dist/scss/mixins/_nav-divider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_navbar-align.scss": {
+	"/scss/mixins/_navbar-align.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4425,12 +4425,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_navbar-align.css",
+		"oAP": "/dist/scss/mixins/_navbar-align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_pagination.scss": {
+	"/scss/mixins/_pagination.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4438,12 +4438,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_pagination.css",
+		"oAP": "/dist/scss/mixins/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_reset-text.scss": {
+	"/scss/mixins/_reset-text.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4451,12 +4451,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_reset-text.css",
+		"oAP": "/dist/scss/mixins/_reset-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_resize.scss": {
+	"/scss/mixins/_resize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4464,12 +4464,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_resize.css",
+		"oAP": "/dist/scss/mixins/_resize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_screen-reader.scss": {
+	"/scss/mixins/_screen-reader.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4477,12 +4477,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_screen-reader.css",
+		"oAP": "/dist/scss/mixins/_screen-reader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_size.scss": {
+	"/scss/mixins/_size.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4490,12 +4490,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_size.css",
+		"oAP": "/dist/scss/mixins/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_table-row.scss": {
+	"/scss/mixins/_table-row.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4503,12 +4503,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_table-row.css",
+		"oAP": "/dist/scss/mixins/_table-row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_text-emphasis.scss": {
+	"/scss/mixins/_text-emphasis.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4516,12 +4516,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_text-emphasis.css",
+		"oAP": "/dist/scss/mixins/_text-emphasis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_text-hide.scss": {
+	"/scss/mixins/_text-hide.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4529,12 +4529,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_text-hide.css",
+		"oAP": "/dist/scss/mixins/_text-hide.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_text-truncate.scss": {
+	"/scss/mixins/_text-truncate.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4542,12 +4542,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_text-truncate.css",
+		"oAP": "/dist/scss/mixins/_text-truncate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_transforms.scss": {
+	"/scss/mixins/_transforms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4555,12 +4555,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_transforms.css",
+		"oAP": "/dist/scss/mixins/_transforms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/mixins\/_visibility.scss": {
+	"/scss/mixins/_visibility.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4568,12 +4568,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/mixins\/_visibility.css",
+		"oAP": "/dist/scss/mixins/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_align.scss": {
+	"/scss/utilities/_align.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4581,12 +4581,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_align.css",
+		"oAP": "/dist/scss/utilities/_align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_background.scss": {
+	"/scss/utilities/_background.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4594,12 +4594,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_background.css",
+		"oAP": "/dist/scss/utilities/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_borders.scss": {
+	"/scss/utilities/_borders.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4607,12 +4607,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_borders.css",
+		"oAP": "/dist/scss/utilities/_borders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_clearfix.scss": {
+	"/scss/utilities/_clearfix.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4620,12 +4620,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_clearfix.css",
+		"oAP": "/dist/scss/utilities/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_display.scss": {
+	"/scss/utilities/_display.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4633,12 +4633,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_display.css",
+		"oAP": "/dist/scss/utilities/_display.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_flex.scss": {
+	"/scss/utilities/_flex.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4646,12 +4646,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_flex.css",
+		"oAP": "/dist/scss/utilities/_flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_float.scss": {
+	"/scss/utilities/_float.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4659,12 +4659,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_float.css",
+		"oAP": "/dist/scss/utilities/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_position.scss": {
+	"/scss/utilities/_position.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4672,12 +4672,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_position.css",
+		"oAP": "/dist/scss/utilities/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_screenreaders.scss": {
+	"/scss/utilities/_screenreaders.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4685,12 +4685,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_screenreaders.css",
+		"oAP": "/dist/scss/utilities/_screenreaders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_sizing.scss": {
+	"/scss/utilities/_sizing.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4698,12 +4698,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_sizing.css",
+		"oAP": "/dist/scss/utilities/_sizing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_spacing.scss": {
+	"/scss/utilities/_spacing.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4711,12 +4711,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_spacing.css",
+		"oAP": "/dist/scss/utilities/_spacing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_text.scss": {
+	"/scss/utilities/_text.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4724,12 +4724,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_text.css",
+		"oAP": "/dist/scss/utilities/_text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/utilities\/_visibility.scss": {
+	"/scss/utilities/_visibility.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -4737,23 +4737,23 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/dist\/scss\/utilities\/_visibility.css",
+		"oAP": "/dist/scss/utilities/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/tawarewa-www-interest-rates.sublime-project": {
+	"/tawarewa-www-interest-rates.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/tawarewa-www-interest-rates.sublime-project",
+		"oAP": "/dist/tawarewa-www-interest-rates.sublime-project",
 		"oF": 0
 		},
-	"\/tawarewa-www-interest-rates.sublime-workspace": {
+	"/tawarewa-www-interest-rates.sublime-workspace": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/dist\/tawarewa-www-interest-rates.sublime-workspace",
+		"oAP": "/dist/tawarewa-www-interest-rates.sublime-workspace",
 		"oF": 0
 		}
 	},
@@ -4765,7 +4765,7 @@
 	"creationDate": 518846894,
 	"displayValue": "Tawarewa - Interest Rates website",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/docs\/apple-touch-icon.png",
+	"iconImageName": "/docs/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -4773,141 +4773,94 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -4919,7 +4872,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -4931,7 +4905,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -4967,53 +4959,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -5022,6 +5007,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 1,
 	"buildFolderName": "dist",
 	"cleanBuild": 1,
@@ -5379,6 +5365,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -5390,6 +5380,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -5435,6 +5429,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -5453,10 +5451,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -5655,9 +5649,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -6011,6 +6009,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -6039,6 +6041,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -6046,6 +6052,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -6101,7 +6111,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -6161,7 +6171,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -6556,7 +6566,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -6575,7 +6584,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -6607,19 +6616,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -6675,7 +6684,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -6704,7 +6713,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -6728,36 +6737,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -6765,11 +6808,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -6793,6 +6836,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -6809,7 +6856,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -6817,20 +6872,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -6845,6 +6912,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -6853,12 +6928,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -6869,11 +6952,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -6885,23 +6976,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -6913,13 +7032,21 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/dist"
+	"websiteRelativeRoot": "/dist"
 	},
 "settingsFileVersion": "3"
 }
